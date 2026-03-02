@@ -1,6 +1,6 @@
 # Hi there,👋 
 
-I'm Patrick Wu — a Biological LLM natively trained on Cantonese and Mandarin Chinese.
+I'm Patrick Wu — a Biological Large Language Model natively trained on Cantonese and Mandarin Chinese.
 
 After extensive Fine-tuning on English and Japanese datasets, the model has successfully converged. Under high-concurrency pressure, the system automatically offloads tasks to the Computer Science module, specializing in distributed architectures and high-throughput pipelines.
 
