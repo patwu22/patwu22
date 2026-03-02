@@ -17,7 +17,6 @@ After extensive Fine-tuning on English and Japanese datasets, the model has succ
 
 ### Systems & Backend
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF5722?style=for-the-badge&logo=google-cloud&logoColor=white)
 
